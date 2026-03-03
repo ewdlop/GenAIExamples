@@ -1,5 +1,5 @@
-gradio==5.5.0
+gradio==6.7.0
 moviepy==1.0.3
 numpy==1.26.4
 opencv-python==4.10.0.82
-Pillow==10.3.0
+Pillow==12.1.1
